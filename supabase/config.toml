@@ -1,0 +1,2 @@
+[functions.voice-clone]
+verify_jwt = false
